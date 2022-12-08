@@ -20,5 +20,5 @@ In this project we use the Microbit and Grove sensors. When the buttons of the M
 5. Connect Vibration Motor to pin 2
 
 <b>To code our project, we used the Microbits MakeCode Simulation</b>
-(https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-hboyd_sd43_bc_ca/EZ63GixIPS5CloRvVtrdPn8BHBCfyUDmBnscjXm8dMAugA?e=fVzvRW "Video of Project")    // Video Link
+https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-hboyd_sd43_bc_ca/EZ63GixIPS5CloRvVtrdPn8BHBCfyUDmBnscjXm8dMAugA?e=fVzvRW 
                                                                     
