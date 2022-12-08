@@ -1,4 +1,4 @@
-# sensor-project
+# Sensor-project using Microbit
 In this project we use the Microbit and Grove sensors. When the buttons of the MicroBit are pressed, music will play with LEDS lighting up to match the beat of the song. When the volume of the buzzer is over 225, the vibration motor will start to vibrate until the voulme is lowered by tilting the MicroBit left. 
 <br>The songs played on the MicroBit are the Buddy Holly riff, Among Us theme and other.
 
@@ -19,6 +19,6 @@ In this project we use the Microbit and Grove sensors. When the buttons of the M
 4. Connect Buzzer to pin 0
 5. Connect Vibration Motor to pin 2
 
-<br<b>To code our project, we used the Microbits MakeCode Simulation</b>
+<b>To code our project, we used the Microbits MakeCode Simulation</b>
 (https://sd43bcca-my.sharepoint.com/:v:/g/personal/132-hboyd_sd43_bc_ca/EZ63GixIPS5CloRvVtrdPn8BHBCfyUDmBnscjXm8dMAugA?e=fVzvRW "Video of Project")    // Video Link
                                                                     
