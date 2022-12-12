@@ -3,13 +3,13 @@ In this project we use the Micro:bit and Grove sensors. When the buttons of the 
 <br>The songs played on the Micro:bit are the Buddy Holly riff, Among Us theme and other.
 
 <br><b>Materials Needed:</b>
-1. MicroMaker Kit
+1. MicroMaker Kit<br>
 -Grove LEDS Red, Yellow and Green<br>
 -Grove Buzzer<br>
 -Grove Vibration Motor<br>
 -Breakout Board<br>
 2. Micro USB Cable
-3. MicroBit
+3. Micro:Bit
 4. 9 volt Battery
 
 <br><b>Wiring and Setup</b>
